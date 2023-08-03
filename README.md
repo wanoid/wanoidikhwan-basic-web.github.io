@@ -1,1 +1,1 @@
-# basic-web-dicoding
+# basic-web
